@@ -1,0 +1,13 @@
+IDLE：
+ALT+P：上一条操作
+Ctrl+【：整体缩进
+Ctrl+】：整体取消缩进
+
+
+"C:\ProgramData\Miniconda3\python.exe""C:\ProgramData\Miniconda3\Lib\idlelib\idle.pyw" "%1" %*
+C:\Users\杨利婷\AppData\Local\Programs\Python\Python37\python.exe "%1" %*
+C:\ProgramData\Miniconda3\python.exe "%1" %*
+
+<p>
+    <iframe src="" width="100%" height="1000px"></iframe>
+</p>
